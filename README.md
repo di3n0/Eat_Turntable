@@ -1,7 +1,7 @@
 幫學生會建置<strong>學餐抽籤轉盤</strong>：
 https://github.com/di3n0/Eat_Turntable
 
-![imgur](https://i.imgur.com/Be6syqZ.jpeg "示範")
+
 
 <br>
 18屆：
