@@ -1,5 +1,6 @@
 幫學生會建置<strong>學餐抽籤轉盤</strong>：
-https://github.com/di3n0/Eat_Turntable
+[https://github.com/di3n0/Eat_Turntable](https://di3n0.github.io/Eat_Turntable/)
+
 
 
 
