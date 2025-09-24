@@ -2447,8 +2447,8 @@ var ReactTurntable = function (_PureComponent) {
 }(_react.PureComponent);
 
 ReactTurntable.defaultProps = {  //轉
-  width: 500,
-  height: 500,
+  width: 1500,
+  height: 1500,
   speed: 1000, //旋轉速度
   duration: 5000, //旋轉時間
   prizes: [],
@@ -2577,7 +2577,7 @@ var styles = {
 
 var prizes = ['天使麻辣','厚道','我家的店','ALOHA POKE’','小鐵匠',
 			  '膳務部','炒鬧食堂','鼎泰珍','巴布阿甘','東大茶飲','7-11',
-			  '藜饗食光','妙軒早餐','四海遊龍','采冉食坊'
+			  '藜饗食光','妙軒早餐','四海遊龍','采冉食坊','哈哈沒中','小恐龍'
 ]
 
 
@@ -2588,8 +2588,8 @@ var prizes = ['天使麻辣','厚道','我家的店','ALOHA POKE’','小鐵匠'
 //字大小
 var options = {
   prizes: prizes,
-  width: 500,
-  height: 500,
+  width: 1500,
+  height: 1500,
   primaryColor: '#5ba887',
   secondaryColor: '#023b75',
   fontStyle: {
