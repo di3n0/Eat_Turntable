@@ -2453,8 +2453,8 @@ ReactTurntable.defaultProps = {  //轉
   duration: 5000, //旋轉時間
   prizes: [],
   clickText: 'Click',
-  primaryColor: '#01814A',
-  secondaryColor: '#004B97',
+  primaryColor: '#054d2e',
+  secondaryColor: '#023b75',
   fontStyle: {
     color: '#fff',
     size: '14px',
@@ -2590,11 +2590,11 @@ var options = {
   prizes: prizes,
   width: 500,
   height: 500,
-  primaryColor: '#01814A',
-  secondaryColor: '#004B97',
+  primaryColor: '#054d2e',
+  secondaryColor: '#023b75',
   fontStyle: {
     color: '#fff',
-    size: '13px',
+    size: '10px',
     fontVertical: false,
     fontWeight: 'bold',
     fontFamily: 'Microsoft YaHei'
