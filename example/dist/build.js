@@ -2446,11 +2446,11 @@ var ReactTurntable = function (_PureComponent) {
   return ReactTurntable;
 }(_react.PureComponent);
 
-ReactTurntable.defaultProps = {
-  width: 500,
-  height: 500,
-  speed: 1000, //旋转速度
-  duration: 5000, //旋转时间
+ReactTurntable.defaultProps = {  //轉盤大小
+  width: 1000,
+  height: 1000,
+  speed: 1000, //旋轉速度
+  duration: 5000, //旋轉時間
   prizes: [],
   clickText: 'Click',
   primaryColor: '#83AF9B',
