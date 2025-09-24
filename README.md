@@ -12,4 +12,4 @@ https://sites.google.com/gm.nttu.edu.tw/nttusa/student-cafeteria-draw?authuser=0
 <br>
 
 <br>
-參考：https://github.com/lijinke666/react-turntable
+參考：https://github.com/lijinke666/react-turntable (lijinke666/react-turntable)
