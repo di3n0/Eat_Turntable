@@ -2447,14 +2447,14 @@ var ReactTurntable = function (_PureComponent) {
 }(_react.PureComponent);
 
 ReactTurntable.defaultProps = {  //轉
-  width: 5000,
-  height: 5000,
+  width: 500,
+  height: 500,
   speed: 1000, //旋轉速度
   duration: 5000, //旋轉時間
   prizes: [],
   clickText: 'Click',
-  primaryColor: '#BBFFBB',
-  secondaryColor: '#66B3FF',
+  primaryColor: '#83AF9B',
+  secondaryColor: '#C8C8A9',
   fontStyle: {
     color: '#fff',
     size: '14px',
@@ -2588,10 +2588,10 @@ var prizes = ['台東佳學便利商店','天使麻辣滷味','厚道商行','�
 //字大小
 var options = {
   prizes: prizes,
-  width: 500,
-  height: 500,
-  primaryColor: '#83AF9B',
-  secondaryColor: '#C8C8A9',
+  width: 5000,
+  height: 5000,
+  primaryColor: '#BBFFBB',
+  secondaryColor: '#66B3FF',
   fontStyle: {
     color: '#fff',
     size: '13px',
