@@ -2454,7 +2454,7 @@ ReactTurntable.defaultProps = {  //轉
   prizes: [],
   clickText: 'Click',
   primaryColor: '#5ba887',
-  secondaryColor: '#023b75',
+  secondaryColor: '#2c5e91',
   fontStyle: {
     color: '#fff',
     size: '14px',
@@ -2575,9 +2575,9 @@ var styles = {
   return '' + prize + (i + 1);
 });//數量	*/
 
-var prizes = ['天使麻辣','厚道','我家的店','ALOHA POKE’','小鐵匠',
+var prizes = ['天使麻辣','厚道','我家的店','ALOHA','小鐵匠',
 			  '膳務部','炒鬧食堂','鼎泰珍','巴布阿甘','東大茶飲','7-11',
-			  '藜饗食光','妙軒早餐','四海遊龍','采冉食坊','哈哈沒中','小恐龍'
+			  '藜饗食光','妙軒早餐','四海遊龍','采冉食坊','再抽一次'
 ]
 
 
@@ -2591,7 +2591,7 @@ var options = {
   width: 1500,
   height: 1500,
   primaryColor: '#5ba887',
-  secondaryColor: '#023b75',
+  secondaryColor: '#2c5e91',
   fontStyle: {
     color: '#fff',
     size: '12px',
